@@ -1,4 +1,4 @@
-# long-form-VQA
+# Long-form Answers to Visual Questions from Blind and Low Vision People
 
 
 ## Introduction
