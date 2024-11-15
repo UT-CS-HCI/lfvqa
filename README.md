@@ -25,7 +25,7 @@ Each example is a json with the following field:
 * `crowd_answers`: 10 short answers provided by crowd workers from the original VizWiz dataset.
 * `crowd_majority`: Majority-voted answer among `crowd_answers`.
 
-Here is an example of validity annotation: 
+Here is an example of annotation: 
 
 ```
 {
