@@ -21,11 +21,11 @@
         ],
         "information_types": [
             [
-                "image_content",
-                "image_quality"
+                "Image Content",
+                "Image Quality"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -60,7 +60,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -95,7 +95,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -130,7 +130,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -165,7 +165,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -199,7 +199,7 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -234,7 +234,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -273,10 +273,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -329,19 +329,19 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -376,7 +376,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -431,22 +431,22 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -480,7 +480,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -519,10 +519,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -557,7 +557,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -592,7 +592,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -627,7 +627,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -661,7 +661,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -696,7 +696,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -730,7 +730,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -765,7 +765,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -801,7 +801,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -849,17 +849,17 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content",
-                "image_quality"
+                "Image Content",
+                "Image Quality"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -894,7 +894,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -929,7 +929,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -964,7 +964,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -999,7 +999,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1035,7 +1035,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1070,7 +1070,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1105,7 +1105,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1140,7 +1140,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1175,7 +1175,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1210,7 +1210,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1253,13 +1253,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1298,11 +1298,11 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content",
-                "image_quality"
+                "Image Content",
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -1337,7 +1337,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1376,10 +1376,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1414,7 +1414,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1449,7 +1449,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1493,14 +1493,14 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content",
-                "image_quality"
+                "Image Content",
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -1535,7 +1535,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1570,7 +1570,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1605,7 +1605,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1644,10 +1644,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1686,11 +1686,11 @@
         ],
         "information_types": [
             [
-                "image_content",
-                "external_information"
+                "Image Content",
+                "External Information"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1725,7 +1725,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1759,7 +1759,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1794,7 +1794,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1868,7 +1868,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1913,7 +1913,7 @@
             [],
             [],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1948,7 +1948,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -1991,13 +1991,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -2040,13 +2040,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -2105,25 +2105,25 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -2169,17 +2169,17 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content",
-                "image_quality"
+                "Image Content",
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -2215,7 +2215,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -2258,13 +2258,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -2307,13 +2307,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -2359,17 +2359,17 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content",
-                "external_information"
+                "Image Content",
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -2416,16 +2416,16 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -2460,7 +2460,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -2495,7 +2495,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -2530,7 +2530,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -2566,7 +2566,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -2601,7 +2601,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -2636,7 +2636,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -2671,7 +2671,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -2706,7 +2706,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -2741,7 +2741,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -2780,7 +2780,7 @@
         "information_types": [
             [],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -2827,16 +2827,16 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -2871,7 +2871,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -2906,7 +2906,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -2958,19 +2958,19 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_quality"
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -3013,13 +3013,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3057,10 +3057,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3094,7 +3094,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3137,10 +3137,10 @@
         "information_types": [
             [],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3176,7 +3176,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3210,7 +3210,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3249,10 +3249,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3299,17 +3299,17 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content",
-                "external_information"
+                "Image Content",
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -3344,7 +3344,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3379,7 +3379,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3413,7 +3413,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3480,7 +3480,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3515,7 +3515,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3549,7 +3549,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3588,10 +3588,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3625,7 +3625,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3664,10 +3664,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3702,7 +3702,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3737,7 +3737,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3780,13 +3780,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3825,10 +3825,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3863,8 +3863,8 @@
         ],
         "information_types": [
             [
-                "image_content",
-                "external_information"
+                "Image Content",
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -3898,7 +3898,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -3937,11 +3937,11 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content",
-                "image_quality"
+                "Image Content",
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -3976,7 +3976,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4011,7 +4011,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4046,7 +4046,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4081,7 +4081,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4116,7 +4116,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4151,7 +4151,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4186,8 +4186,8 @@
         ],
         "information_types": [
             [
-                "image_content",
-                "external_information"
+                "Image Content",
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -4221,7 +4221,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4261,11 +4261,11 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content",
-                "image_quality"
+                "Image Content",
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -4300,7 +4300,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4334,7 +4334,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4369,7 +4369,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4403,7 +4403,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4438,7 +4438,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4473,7 +4473,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4508,7 +4508,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4542,7 +4542,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4581,10 +4581,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4663,16 +4663,16 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4707,7 +4707,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4742,7 +4742,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4776,7 +4776,7 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -4811,7 +4811,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4845,7 +4845,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4880,7 +4880,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4915,7 +4915,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4950,7 +4950,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -4984,7 +4984,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5019,7 +5019,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5053,7 +5053,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5088,7 +5088,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5123,7 +5123,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5158,8 +5158,8 @@
         ],
         "information_types": [
             [
-                "image_content",
-                "external_information"
+                "Image Content",
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -5202,13 +5202,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5242,7 +5242,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5277,7 +5277,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5312,7 +5312,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5347,7 +5347,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5381,7 +5381,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5416,7 +5416,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5451,7 +5451,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5486,7 +5486,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5531,15 +5531,15 @@
         ],
         "information_types": [
             [
-                "image_content",
-                "image_quality"
+                "Image Content",
+                "Image Quality"
             ],
             [
-                "image_content",
-                "image_quality"
+                "Image Content",
+                "Image Quality"
             ],
             [
-                "image_quality"
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -5574,7 +5574,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5612,10 +5612,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5650,7 +5650,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5709,25 +5709,25 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5762,7 +5762,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5796,7 +5796,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5831,7 +5831,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5866,7 +5866,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5901,7 +5901,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5940,10 +5940,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -5990,16 +5990,16 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -6033,7 +6033,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6067,7 +6067,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6102,7 +6102,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6136,7 +6136,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6203,7 +6203,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6238,7 +6238,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6272,7 +6272,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6306,7 +6306,7 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -6341,7 +6341,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6376,7 +6376,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6411,7 +6411,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6445,7 +6445,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6479,7 +6479,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6514,7 +6514,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6549,7 +6549,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6584,7 +6584,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6618,7 +6618,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6662,13 +6662,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6702,7 +6702,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6737,7 +6737,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6777,11 +6777,11 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content",
-                "image_quality"
+                "Image Content",
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -6815,7 +6815,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6850,7 +6850,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6884,7 +6884,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6956,10 +6956,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -6993,7 +6993,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7028,7 +7028,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7062,7 +7062,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7097,7 +7097,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7132,7 +7132,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7172,10 +7172,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7209,7 +7209,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7243,7 +7243,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7310,7 +7310,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7345,7 +7345,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7379,7 +7379,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7418,10 +7418,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7455,7 +7455,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7490,7 +7490,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7534,11 +7534,11 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7573,8 +7573,8 @@
         ],
         "information_types": [
             [
-                "image_content",
-                "image_quality"
+                "Image Content",
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -7609,7 +7609,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7643,7 +7643,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7677,7 +7677,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7712,7 +7712,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7780,7 +7780,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7814,7 +7814,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7848,7 +7848,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7882,7 +7882,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7922,7 +7922,7 @@
         "information_types": [
             [],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -7957,7 +7957,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -7991,7 +7991,7 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -8026,7 +8026,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8061,7 +8061,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8096,7 +8096,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8131,7 +8131,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8165,7 +8165,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8199,7 +8199,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8233,7 +8233,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8267,7 +8267,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8301,7 +8301,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8336,7 +8336,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8370,7 +8370,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8404,7 +8404,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8438,7 +8438,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8472,7 +8472,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8506,7 +8506,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8541,7 +8541,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8575,7 +8575,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8642,7 +8642,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8685,14 +8685,14 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content",
-                "image_quality"
+                "Image Content",
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -8731,7 +8731,7 @@
         "information_types": [
             [],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8765,7 +8765,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8799,7 +8799,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8838,10 +8838,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_quality"
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -8875,7 +8875,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8909,7 +8909,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8943,7 +8943,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -8977,7 +8977,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9012,7 +9012,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9051,10 +9051,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9088,7 +9088,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9155,7 +9155,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9189,7 +9189,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9224,7 +9224,7 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -9258,7 +9258,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9296,10 +9296,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -9346,16 +9346,16 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9390,7 +9390,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9424,7 +9424,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9466,13 +9466,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9507,7 +9507,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9542,7 +9542,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9576,7 +9576,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9648,11 +9648,11 @@
         ],
         "information_types": [
             [
-                "image_content",
-                "image_quality"
+                "Image Content",
+                "Image Quality"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -9687,7 +9687,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9721,7 +9721,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9756,7 +9756,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9796,10 +9796,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9833,7 +9833,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9868,7 +9868,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9902,7 +9902,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9936,7 +9936,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -9970,7 +9970,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10005,7 +10005,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10040,7 +10040,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10074,7 +10074,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10108,7 +10108,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10142,7 +10142,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10176,7 +10176,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10211,7 +10211,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10245,7 +10245,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10279,7 +10279,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10314,7 +10314,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10349,7 +10349,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10415,7 +10415,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10449,7 +10449,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10496,16 +10496,16 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10615,13 +10615,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_quality"
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -10656,7 +10656,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10788,7 +10788,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10822,7 +10822,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10862,8 +10862,8 @@
         "information_types": [
             [],
             [
-                "image_content",
-                "image_quality"
+                "Image Content",
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -10897,7 +10897,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10931,7 +10931,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10965,7 +10965,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -10999,7 +10999,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -11033,7 +11033,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -11170,31 +11170,31 @@
         "information_types": [
             [],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [],
             [],
@@ -11308,10 +11308,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -11379,7 +11379,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -11447,7 +11447,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -11482,7 +11482,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -11517,7 +11517,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -11583,7 +11583,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -11617,7 +11617,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -11656,10 +11656,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -11694,7 +11694,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -11728,7 +11728,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -11762,7 +11762,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -11830,7 +11830,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -11897,7 +11897,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -11931,7 +11931,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -11965,7 +11965,7 @@
         ],
         "information_types": [
             [
-                "image_quality"
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -12010,13 +12010,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -12051,7 +12051,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -12086,7 +12086,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -12121,7 +12121,7 @@
         ],
         "information_types": [
             [
-                "image_quality"
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -12155,7 +12155,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -12226,7 +12226,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -12260,7 +12260,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -12303,7 +12303,7 @@
         "information_types": [
             [],
             [
-                "external_information"
+                "External Information"
             ],
             []
         ],
@@ -12339,7 +12339,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -12379,10 +12379,10 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -12425,13 +12425,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -12474,13 +12474,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -12514,7 +12514,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -12552,7 +12552,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -12587,7 +12587,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -12621,7 +12621,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -12687,7 +12687,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -12730,13 +12730,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -12836,7 +12836,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -12870,7 +12870,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -12904,7 +12904,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -12957,17 +12957,17 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -13007,7 +13007,7 @@
         "information_types": [
             [],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -13046,7 +13046,7 @@
         "information_types": [
             [],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -13112,7 +13112,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -13146,7 +13146,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -13180,7 +13180,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -13214,7 +13214,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -13280,7 +13280,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -13314,7 +13314,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -13361,16 +13361,16 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "image_quality"
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -13409,10 +13409,10 @@
         ],
         "information_types": [
             [
-                "image_quality"
+                "Image Quality"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -13446,7 +13446,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -13480,7 +13480,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -13519,11 +13519,11 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content",
-                "image_quality"
+                "Image Content",
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -13557,7 +13557,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -13591,7 +13591,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -13625,7 +13625,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -13660,7 +13660,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -13770,7 +13770,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -13804,7 +13804,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -13904,7 +13904,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -13971,7 +13971,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -14037,7 +14037,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -14076,10 +14076,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -14114,7 +14114,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -14148,7 +14148,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -14215,7 +14215,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -14291,7 +14291,7 @@
         ],
         "information_types": [
             [
-                "image_quality"
+                "Image Quality"
             ],
             []
         ],
@@ -14326,7 +14326,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -14398,7 +14398,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -14477,7 +14477,7 @@
             [],
             [],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -14544,7 +14544,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -14644,7 +14644,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -14678,7 +14678,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -14712,7 +14712,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -14746,7 +14746,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -14813,7 +14813,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -14847,7 +14847,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -14915,7 +14915,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -14950,7 +14950,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -15021,7 +15021,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -15094,7 +15094,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -15129,7 +15129,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -15233,7 +15233,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -15267,7 +15267,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -15384,7 +15384,7 @@
             [],
             [],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -15419,7 +15419,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -15491,10 +15491,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -15567,10 +15567,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_quality"
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -15604,7 +15604,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -15736,7 +15736,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -15770,7 +15770,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -15837,7 +15837,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -15904,7 +15904,7 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -16004,7 +16004,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -16070,7 +16070,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -16105,7 +16105,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -16139,7 +16139,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -16177,10 +16177,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -16220,11 +16220,11 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content",
-                "image_quality"
+                "Image Content",
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -16259,7 +16259,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -16294,7 +16294,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -16362,8 +16362,8 @@
         ],
         "information_types": [
             [
-                "image_content",
-                "image_quality"
+                "Image Content",
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -16437,7 +16437,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -16547,12 +16547,12 @@
         ],
         "information_types": [
             [
-                "image_content",
-                "external_information"
+                "Image Content",
+                "External Information"
             ],
             [
-                "image_content",
-                "external_information"
+                "Image Content",
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -16587,7 +16587,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -16623,7 +16623,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -16657,7 +16657,7 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -16692,7 +16692,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -16726,7 +16726,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -16770,13 +16770,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -16820,13 +16820,13 @@
         ],
         "information_types": [
             [
-                "image_quality"
+                "Image Quality"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -16865,7 +16865,7 @@
         "information_types": [
             [],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -16910,13 +16910,13 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -16955,10 +16955,10 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -17017,10 +17017,10 @@
             [],
             [],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -17086,7 +17086,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -17133,17 +17133,17 @@
         ],
         "information_types": [
             [
-                "image_content",
-                "external_information"
+                "Image Content",
+                "External Information"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -17177,7 +17177,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -17216,10 +17216,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -17258,11 +17258,11 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content",
-                "external_information"
+                "Image Content",
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -17298,7 +17298,7 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -17332,7 +17332,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -17376,14 +17376,14 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content",
-                "external_information"
+                "Image Content",
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -17426,13 +17426,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -17466,7 +17466,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -17570,10 +17570,10 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -17612,10 +17612,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -17699,17 +17699,17 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content",
-                "external_information"
+                "Image Content",
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -17882,7 +17882,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -17927,10 +17927,10 @@
         "information_types": [
             [],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -17969,10 +17969,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -18011,10 +18011,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_quality"
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -18049,7 +18049,7 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -18088,7 +18088,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             []
         ],
@@ -18137,13 +18137,13 @@
         "information_types": [
             [],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -18186,14 +18186,14 @@
         ],
         "information_types": [
             [
-                "image_content",
-                "external_information"
+                "Image Content",
+                "External Information"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -18227,7 +18227,7 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -18267,10 +18267,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -18351,14 +18351,14 @@
         ],
         "information_types": [
             [
-                "image_content",
-                "external_information"
+                "Image Content",
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -18392,7 +18392,7 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -18426,7 +18426,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -18503,7 +18503,7 @@
         "information_types": [
             [],
             [
-                "image_content"
+                "Image Content"
             ],
             []
         ],
@@ -18656,13 +18656,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -18697,7 +18697,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -18731,7 +18731,7 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -18770,7 +18770,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             []
         ],
@@ -18816,13 +18816,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_quality"
+                "Image Quality"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -18867,10 +18867,10 @@
         "information_types": [
             [],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -18913,13 +18913,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -18964,15 +18964,15 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content",
-                "image_quality",
-                "external_information"
+                "Image Content",
+                "Image Quality",
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -19039,7 +19039,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -19078,10 +19078,10 @@
         ],
         "information_types": [
             [
-                "image_quality"
+                "Image Quality"
             ],
             [
-                "image_quality"
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -19116,7 +19116,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -19156,11 +19156,11 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content",
-                "image_quality"
+                "Image Content",
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -19194,7 +19194,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -19233,10 +19233,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -19303,7 +19303,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -19337,7 +19337,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -19371,7 +19371,7 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -19439,10 +19439,10 @@
             [],
             [],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -19477,7 +19477,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -19511,7 +19511,7 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -19546,7 +19546,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -19598,19 +19598,19 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -19734,34 +19734,34 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [],
             [],
@@ -19902,16 +19902,16 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -19950,10 +19950,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -20069,13 +20069,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -20147,10 +20147,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -20185,7 +20185,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -20256,10 +20256,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -20326,7 +20326,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -20387,22 +20387,22 @@
         "information_types": [
             [],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -20447,13 +20447,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_quality"
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -20493,10 +20493,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -20556,22 +20556,22 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -20611,10 +20611,10 @@
         ],
         "information_types": [
             [
-                "image_quality"
+                "Image Quality"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -20649,7 +20649,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -20718,25 +20718,25 @@
         "information_types": [
             [],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -20813,14 +20813,14 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content",
-                "image_quality"
+                "Image Content",
+                "Image Quality"
             ],
             [
-                "image_quality"
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -20893,7 +20893,7 @@
         "information_types": [
             [],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -20927,7 +20927,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -20961,7 +20961,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -21033,10 +21033,10 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -21094,16 +21094,16 @@
         "information_types": [
             [],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -21147,13 +21147,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -21188,7 +21188,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -21255,7 +21255,7 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -21304,14 +21304,14 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -21345,7 +21345,7 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -21384,10 +21384,10 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -21421,7 +21421,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -21455,7 +21455,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -21538,7 +21538,7 @@
         "information_types": [
             [],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -21605,7 +21605,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -21682,14 +21682,14 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content",
-                "external_information"
+                "Image Content",
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -21739,16 +21739,16 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -21792,13 +21792,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -21849,16 +21849,16 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -21892,7 +21892,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -21937,13 +21937,13 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -21992,14 +21992,14 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ],
             [],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -22037,10 +22037,10 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -22237,7 +22237,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -22271,7 +22271,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -22310,10 +22310,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -22352,10 +22352,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -22394,10 +22394,10 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -22433,7 +22433,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -22478,10 +22478,10 @@
         "information_types": [
             [],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -22515,7 +22515,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -22593,10 +22593,10 @@
         "information_types": [
             [],
             [
-                "image_content"
+                "Image Content"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -22636,7 +22636,7 @@
         "information_types": [
             [],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -22670,7 +22670,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -22710,11 +22710,11 @@
         ],
         "information_types": [
             [
-                "image_content",
-                "image_quality"
+                "Image Content",
+                "Image Quality"
             ],
             [
-                "external_information"
+                "External Information"
             ]
         ],
         "crowd_answers": [
@@ -22752,7 +22752,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ],
             []
         ],
@@ -22792,10 +22792,10 @@
         ],
         "information_types": [
             [
-                "external_information"
+                "External Information"
             ],
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
@@ -22830,7 +22830,7 @@
         ],
         "information_types": [
             [
-                "image_quality"
+                "Image Quality"
             ]
         ],
         "crowd_answers": [
@@ -22864,7 +22864,7 @@
         ],
         "information_types": [
             [
-                "image_content"
+                "Image Content"
             ]
         ],
         "crowd_answers": [
